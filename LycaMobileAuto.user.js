@@ -16,7 +16,6 @@ var city = document.getElementById("personal_city")
 var post = document.getElementById("postCodes")
 var buttonpost = document.getElementById("searchPostCode")
 var billing = document.getElementById("same_as_billing")
-var nothanks = document.getElementById("online_retention_check_nothanks")
 
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
